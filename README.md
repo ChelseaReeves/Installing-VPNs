@@ -17,7 +17,7 @@ A Virtual Private Network (VPN) is a service made to create a secure link betwee
 <br />
 <h2>Operating Systems Used</h2>
 <ul>
- <li>Windows 10 </li>
+ <li>Windows 10 (21H2) </li>
 </ul>
 <br />
 
